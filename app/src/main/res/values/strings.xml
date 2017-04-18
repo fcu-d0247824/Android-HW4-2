@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_notification">ActivityNotification</string>
+</resources>
